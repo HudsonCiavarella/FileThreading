@@ -1,7 +1,7 @@
 To compile - make all
 To clean - make clean
 
-Task 1 Instructions
+Task 1 Instructions (Copying Files)
 
 ./mmcopier n source_dir destination_dir
 
@@ -9,7 +9,7 @@ Example:
 
 ./mmcopier 5 /Users/hudsonciavarella/Desktop/OperatingSystemPrinciples/Assignment1/Task1/source_dir /Users/hudsonciavarella/Desktop/OperatingSystemPrinciples/Assignment1/Task1/destination_dir
 
-Task 2 Instructions
+Task 2 Instructions (Reading and Writing a File)
 
 ./mscopier n source_file destination_file
 
